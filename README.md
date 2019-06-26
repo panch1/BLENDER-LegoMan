@@ -1,2 +1,6 @@
 # BLENDER-LegoMan
-LegoMan3D made with Blender.
+
+Just a 3D practice.
+Quad-model. 
+
+www.franciscososa.net
